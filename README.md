@@ -6,4 +6,4 @@ Basta dar:
 
 `npm start`
 
-![Calculadora](https://imgur.com/xOu6lgZ)
+[Imgur](https://imgur.com/xOu6lgZ)
