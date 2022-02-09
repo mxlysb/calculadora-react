@@ -6,4 +6,4 @@ Basta dar:
 
 `npm start`
 
-[Imgur](https://imgur.com/xOu6lgZ)
+![calculadora](calculadora.png)
